@@ -1,7 +1,3 @@
-export default function RootLayout({ children }: { children: React.ReactNode }) {
-  return (
-    <html lang="uk">
-      <body>{children}</body>
-    </html>
-  );
-}
+git add app/layout.tsx
+git commit -m "Додав файл layout.tsx"
+git push origin main
